@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Androidnpreview</string>
+    <string name="refrence_method">Refrence Method</string>
+    <string name="lambda">Lambda</string>
 </resources>
